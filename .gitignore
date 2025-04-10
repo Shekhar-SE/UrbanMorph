@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Data folders (optional)
+data/raw_images/
+data/processed_images/
+
+# Output
+outputs/
+
+# VSCode / PyCharm IDE files
+.vscode/
+.idea/
